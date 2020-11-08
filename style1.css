@@ -561,10 +561,14 @@ img {   max-width: 30%; }
 
   }
 
-  .happiness {
+  .happiness  {
     color:#874562 ;
     font-size: 28px;
     font-weight: bold;
     text-align: center;
     margin-bottom: 24px;
+
+    a {
+        color: #874562;
+    }
   }
