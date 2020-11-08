@@ -379,8 +379,8 @@ img {   max-width: 30%; }
    font-family: 'Dancing Script', cursive;
     font-weight: normal;
     font-style: normal;
-   font-size:100px;
-  margin:5px 0;
+   font-size:120px;
+  margin:64px 0;
    
    color:#674ea7;
 }
@@ -391,7 +391,7 @@ img {   max-width: 30%; }
     font-style: normal;
   margin:0;
   padding:0;
-  font-size:20px;
+  font-size:40px;
   color:#e25c67;
   line-height:1;
 }
@@ -400,15 +400,16 @@ img {   max-width: 30%; }
      font-family: 'Dancing Script', cursive;
     font-weight: normal;
     font-style: normal;
-   font-size:20px;
+    font-size:32px;
     color:#674ea7;
+    text-align: center;
 }
 
 .title h3 {
   font-weight:300;
   text-transform: uppercase;
   letter-spacing: 5px;
-  font-size:16px;
+  font-size:32px;
    color:#674ea7;
       margin-top: 5px;
 }
@@ -419,7 +420,7 @@ img {   max-width: 30%; }
   margin: 30px 0 20px;
    text-transform: uppercase;
   letter-spacing: 3px;
-    font-size:12px;
+    font-size:24px;
 }
 
 .wrap {
@@ -468,6 +469,19 @@ img {   max-width: 30%; }
     padding: 20px;
     background-color: #eee;
     border-radius: 20px;
+    font-size: 24px;
+  }
+
+  .time {
+    width: 100%;
+    height: auto;
+    
+    background-color: #674ea7;
+    border-radius: 24px;
+    font-size: 20px;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
   }
   
   .container {
@@ -475,30 +489,82 @@ img {   max-width: 30%; }
     grid-template-columns: 1fr 1fr;
     border-radius: 10px;
     overflow: hidden;
+    font-size: 24px;
   }
   
   .block {
-    width: 180px;
-    height: 160px;
+    width: 280px;
+    height: 260px;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     color: #fff;
+    font-size: 24px;
   }
   
   .days {
     background: linear-gradient(90deg, #b33a46, #9b313c);
+    font-size: 32px;
   }
   
   .hours {
     background: linear-gradient(90deg, #a7c3cd, #90a9b2);
+    font-size: 32px;
   }
   
   .minutes {
     background-color: #874562;
+    font-size: 32px;
   }
   
   .seconds {
     background-color: #145689;
+    font-size: 32px;
+  }
+
+  .date {
+      color: #874562;
+      font-weight: 900;
+  }
+
+  .place {
+    color: #874562;
+    font-weight: 900;
+  }
+
+  .footer {
+    color: #564861;
+    text-align: center;
+    font-size: 18px;
+    margin: 24px;
+  }
+
+  .phone {
+      color:#874562
+  }
+
+  .end-msg {
+    width: auto;
+    height: auto;
+    padding: 12px;
+    background: linear-gradient(90deg, #b33a46, #9b313c);
+    border-radius: 20px;
+    font-size: 14px;
+    color: #fff;
+    margin: 64px;
+    font-size: 24px;
+  }
+
+  a {
+      text-decoration: none;
+
+  }
+
+  .happiness {
+    color:#874562 ;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 24px;
   }
