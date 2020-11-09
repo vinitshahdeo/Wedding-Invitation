@@ -575,4 +575,6 @@ img {   max-width: 30%; }
   }
  .actions {
      display: flex;
+     font-size: 12px;
+     letter-spacing: 0pt;
  }
