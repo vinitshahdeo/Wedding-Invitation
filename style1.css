@@ -377,9 +377,9 @@ img {   max-width: 30%; }
 
 .title h1 {
    font-family: 'Dancing Script', cursive;
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
-   font-size:120px;
+   font-size:60px;
   margin:32px 0;
    
    color:#674ea7;
@@ -387,22 +387,22 @@ img {   max-width: 30%; }
 
 .title h2 {
    font-family: 'Dancing Script', cursive;
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
   margin:0;
   padding:0;
-  font-size:40px;
+  font-size:24px;
   color:#e25c67;
   line-height:1;
 }
 
 .dance-med {
     font-family: 'Dancing Script', cursive;
-    font-weight: normal;
+    font-weight: bolder;
     font-style: normal;
-    font-size:64px;
+    font-size:32px;
     color:#674ea7;
-    margin: 64px;
+    margin: 16px;
     text-align: center;
 }
 
@@ -410,7 +410,7 @@ img {   max-width: 30%; }
   font-weight:300;
   text-transform: uppercase;
   letter-spacing: 5px;
-  font-size:32px;
+  font-size:24px;
    color:#674ea7;
       margin-top: 5px;
 }
@@ -421,7 +421,7 @@ img {   max-width: 30%; }
   margin: 30px 0 20px;
    text-transform: uppercase;
   letter-spacing: 3px;
-    font-size:24px;
+    font-size:16px;
 }
 
 .wrap {
@@ -470,19 +470,22 @@ img {   max-width: 30%; }
     padding: 20px;
     background-color: #eee;
     border-radius: 20px;
-    font-size: 24px;
+    font-size: 16px;
   }
 
-  .time {
-    width: 100%;
+  .venue {
+    width: auto;
     height: auto;
-    
     background-color: #674ea7;
-    border-radius: 24px;
-    font-size: 20px;
+    border-radius: 16px;
+    text-align: center;
     color: #fff;
     padding: 8px;
-    text-align: center;
+  }
+
+  .venue a {
+      text-decoration: none;
+      color: #fff;
   }
   
   .container {
@@ -490,38 +493,32 @@ img {   max-width: 30%; }
     grid-template-columns: 1fr 1fr;
     border-radius: 10px;
     overflow: hidden;
-    font-size: 24px;
   }
   
   .block {
-    width: 280px;
-    height: 260px;
+    width: 180px;
+    height: 160px;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     color: #fff;
-    font-size: 24px;
   }
   
   .days {
     background: linear-gradient(90deg, #b33a46, #9b313c);
-    font-size: 32px;
   }
   
   .hours {
     background: linear-gradient(90deg, #a7c3cd, #90a9b2);
-    font-size: 32px;
   }
   
   .minutes {
     background-color: #874562;
-    font-size: 32px;
   }
   
   .seconds {
     background-color: #145689;
-    font-size: 32px;
   }
 
   .date {
@@ -537,7 +534,7 @@ img {   max-width: 30%; }
   .footer {
     color: #564861;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     margin: 24px;
   }
 
@@ -553,7 +550,6 @@ img {   max-width: 30%; }
     border-radius: 20px;
     font-size: 14px;
     color: #fff;
-    margin: 64px;
     font-size: 24px;
   }
 
@@ -564,7 +560,7 @@ img {   max-width: 30%; }
 
   .happiness {
     color:#874562 ;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: bold;
     text-align: center;
     margin-bottom: 24px;
