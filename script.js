@@ -3,26 +3,10 @@
       $('.sakura-falling').sakura();
 })(jQuery);
 
-// $(document).ready(function() {
-//   $("#my_audio").get(0).play();
-// });
-
-// window.addEventListener("DOMContentLoaded", event => {
-//   const audio = document.querySelector("audio");
-//   audio.volume = 0.2;
-//   audio.play();
-// });
-
-
-
-// var audio = document.createElement('audio');
-// var source = document.createElement('source');
-// var media = document.getElementById('media');
-// media.appendChild(audio);
-// audio.appendChild(source);
-// source.setAttribute('src', './song.mp3');
-// source.setAttribute('type', 'audio/mpeg');
-// audio.setAttribute('autoplay', 'autoplay');
+$(document).on('click', function(){
+    document.getElementById("my_audio").play();
+    console.log('Shaadi me zaroor aana');
+});
 
 // Set the date we're counting down to
 var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();

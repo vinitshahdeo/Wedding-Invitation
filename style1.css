@@ -380,7 +380,7 @@ img {   max-width: 30%; }
     font-weight: normal;
     font-style: normal;
    font-size:120px;
-  margin:64px 0;
+  margin:32px 0;
    
    color:#674ea7;
 }
@@ -397,11 +397,12 @@ img {   max-width: 30%; }
 }
 
 .dance-med {
-     font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script', cursive;
     font-weight: normal;
     font-style: normal;
-    font-size:32px;
+    font-size:64px;
     color:#674ea7;
+    margin: 64px;
     text-align: center;
 }
 
@@ -561,14 +562,17 @@ img {   max-width: 30%; }
 
   }
 
-  .happiness  {
+  .happiness {
     color:#874562 ;
     font-size: 28px;
     font-weight: bold;
     text-align: center;
     margin-bottom: 24px;
+  }
+  .twitter {
+    color:#874562 ;
+  }
 
-    a {
-        color: #874562;
-    }
+  .music {
+    display: none;
   }
