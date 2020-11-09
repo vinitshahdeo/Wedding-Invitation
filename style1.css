@@ -481,6 +481,7 @@ img {   max-width: 30%; }
     text-align: center;
     color: #fff;
     padding: 8px;
+    margin-right: 8px;
   }
 
   .venue a {
@@ -572,3 +573,6 @@ img {   max-width: 30%; }
   .music {
     display: none;
   }
+ .actions {
+     display: flex;
+ }
