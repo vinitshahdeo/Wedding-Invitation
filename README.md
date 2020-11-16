@@ -20,3 +20,6 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 - Visit the [website](https://sonali.netlify.app/) for more details
 
+<br><sup><i>With warm regards,<br>
+**Vinit Shahdeo**<i></sup><br>
+[![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
