@@ -4,6 +4,11 @@
 
 ## Wedding Invitation :ring:
 
+<details>
+  <summary><strong>View Invitation</strong></summary>
+  <a href="https://sonali.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+</details>
+
 With the divine grace of the almighty,
 inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
 
@@ -12,8 +17,4 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 - Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
 
 - Visit the [website](https://sonali.netlify.app/) for more details
-
-
-[![Wedding Invitation](./assets/img/sonali.jpeg)](https://sonali.netlify.app/)
-
 
