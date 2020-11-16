@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://sonali.netlify.app/"><img src="https://lh3.googleusercontent.com/proxy/GQbotNmYO3BQMZvb_ve5TvbtIO_EIO3OIzHTPDLIloypSVXsanc0DWnv_TgHQIhq2n9Biz4RXTBC20q3sZIBvBm7JQYUchrFYL0ZvN0qEHLa" /></a></p>
+<p align="center"><a href="https://sonali.netlify.app/"><img src="https://lh3.googleusercontent.com/proxy/GQbotNmYO3BQMZvb_ve5TvbtIO_EIO3OIzHTPDLIloypSVXsanc0DWnv_TgHQIhq2n9Biz4RXTBC20q3sZIBvBm7JQYUchrFYL0ZvN0qEHLa" width="150px" height="150px"/></a></p>
 <h1 align="center">SAVE THE DATE: NOV 29, 2020 <br> <a href="https://sonali.netlify.app/">sonali.netlify.app</a></h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys)
