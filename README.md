@@ -22,6 +22,8 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 - See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
 
+- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
+
 ```js
 
 const newCouple = 'Sonali & Gagan';
