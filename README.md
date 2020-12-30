@@ -51,7 +51,7 @@ const weddingVenue = new Location('Ashirwad Garden, Ranchi');
 
 To reuse this, follow the steps:
 
-- *Replace the date in [script.js](https://github.com/vinitshahdeo/Wedding-Invitation/blob/master/js/script.js#L15) to have a timer running for your big day!*
+- *Replace the date in [script.js](https://github.com/vinitshahdeo/Wedding-Invitation/blob/master/js/script.js#L29) to have a timer running for your big day!*
 
 ```js
 // Set the date we're counting down to
