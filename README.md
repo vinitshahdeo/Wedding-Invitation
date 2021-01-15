@@ -70,7 +70,7 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 ### Do not forget to leave a star! :hugs:
 
-Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))
+Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)) :yellow_heart:
 
 <br><sup><i>With warm regards,<br>
 **Vinit Shahdeo**<i></sup><br>
