@@ -26,13 +26,13 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 ```js
 
-const newCouple = 'Sonali & Gagan';
+const newCouple = 'sample & sample2';
 
-// Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
+// Dec 13, 2021
+const weddingDate = new Date(2021, 12, 13);
 
-// Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+// Wedding venue: https://www.google.com/search?client=ubuntu&hs=GFe&channel=fs&tbm=lcl&q=shahi+darbar+hall&spell=1&sa=X&ved=2ahUKEwjx04a46L3zAhWEj-YKHd0KCaQQBSgAegQIAxAY&biw=2073&bih=1111&dpr=0.9#rlfi=hd:;si:1870865911184552653;mv:[[16.82850785265527,74.66599752282691],[16.818073875523854,74.64826275682046]]
+const weddingVenue = new Location('Shahi Darbar Hall, Miraj');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
