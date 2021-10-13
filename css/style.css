@@ -521,12 +521,12 @@ body {
 }
 
 .date {
-	color: #874562;
+	color: #daa738;
 	font-weight: 900;
 }
 
 .place {
-	color: #874562;
+	color: #daa738;
 	font-weight: 900;
 }
 
@@ -557,7 +557,7 @@ a {
 }
 
 .happiness {
-	color: #874562;
+	color: #daa738;
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
