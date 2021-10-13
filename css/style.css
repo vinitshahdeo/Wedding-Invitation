@@ -344,7 +344,7 @@
 }
 
 .sakura {
-	background:  #674ea7;
+	background:  #dea636;
 }
 
 
@@ -385,7 +385,7 @@ img {
 	font-style: normal;
 	font-size: 60px;
 	margin: 32px 0;
-	color:  #674ea7;
+	color:  #10432e;
 }
 
 .title h2 {
@@ -395,7 +395,7 @@ img {
 	margin: 0;
 	padding: 0;
 	font-size: 24px;
-	color: #e25c67;
+	color: #daa738;
 	line-height: 1;
 }
 
@@ -404,7 +404,7 @@ img {
 	font-weight: bolder;
 	font-style: normal;
 	font-size: 32px;
-	color: #674ea7;
+	color: #10432e;
 	margin: 16px;
 	text-align: center;
 }
@@ -414,12 +414,12 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 24px;
-	color:  #674ea7;
+	color:  #10432e;
 	margin-top: 5px;
 }
 
 .title p {
-	color: #564861;
+	color: #10432e;
 	margin: 30px 0 20px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -474,7 +474,7 @@ body {
 .venue {
 	width: auto;
 	height: auto;
-	background-color: #674ea7;
+	background-color: #10432e;
 	border-radius: 16px;
 	text-align: center;
 	color: #fff;
