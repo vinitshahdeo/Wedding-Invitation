@@ -343,27 +343,51 @@
 	position: absolute
 }
 
-.sakura {
-	background: #674ea7;
+body {
+
+	justify-content: center;
+	align-items: center;
+
+
+	font-family: Arial, Helvetica, Sans-serif;
 }
+
+.sakura {
+	background: #FFD700;
+}
+
+.div1 {
+	
+	background: url(../img/BG1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center top;
+	overflow: hidden;
+
+   
+  }
+  
+  .div2 {
+
+	background: url(../img/BG2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center top;
+	overflow: hidden;
+
+  
+  }
 
 
 /*******************************/
 
-body {
-	font-family: Arial, Helvetica, Sans-serif;
-}
 
-img {
-	max-width: 100%;
-	height: auto;
-}
 
-@media (max-width:900px) {
-	img {
-		max-width: 30%;
-	}
-}
+
+
+
+
+
 
 .top-right-decoration {
 	position: absolute;
@@ -449,14 +473,7 @@ img {
 	font-family: 'Arvo', serif;
 }
 
-body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	/* height: 100vh;
-    width: 100%; */
-	flex-direction: column;
-}
+
 
 .title {
 	margin-bottom: 40px;
