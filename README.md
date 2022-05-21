@@ -68,6 +68,9 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 > <sup>Despite so many new Bollywood and English song options, I prefered to use two-decade-old song, **[Din Shagna Da](https://youtu.be/X0MDALpV29s)**! Ever attended a North Indian Wedding? As soon as the DJ plays [Din Shagna Da](https://youtu.be/Mj4eK5YViCs) song, it means that the much-awaited moment is here and the bride is all set to put her first foot forward to the wedding venue under a breathtaking phoolon ki chaadar. Let's keep the sky-high status of this song untouched! When the website is backed up with a soul-stirring track, the feeling becomes absolutely surreal. **Choose a heart-touching track!** :musical_note: :heart: </sup>
 
+## शुभ विवाह 🎉  ~ Hindi version of this website 👇
+
+[![Wedding Website](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=wedding-website)](https://github.com/vinitshahdeo/wedding-website/)
 
 ### Do not forget to leave a star! :hugs:
 
