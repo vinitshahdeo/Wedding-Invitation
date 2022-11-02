@@ -74,6 +74,8 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 ### Do not forget to leave a star! :hugs:
 
+[![Stargazers repo roster for @vinitshahdeo/Wedding-Invitation](https://reporoster.com/stars/vinitshahdeo/Wedding-Invitation)](https://github.com/vinitshahdeo/Wedding-Invitation/stargazers)
+
 Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)) :yellow_heart:
 
 <br><sup><i>With warm regards,<br>
