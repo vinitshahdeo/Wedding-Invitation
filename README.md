@@ -72,7 +72,7 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 [![Wedding Website](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=wedding-website)](https://github.com/vinitshahdeo/wedding-website/)
 
-### Do not forget to leave a star! :hugs:
+### Show your support by leaving a star! :hugs:
 
 [![Stargazers repo roster for @vinitshahdeo/Wedding-Invitation](https://reporoster.com/stars/vinitshahdeo/Wedding-Invitation)](https://github.com/vinitshahdeo/Wedding-Invitation/stargazers)
 
