@@ -78,6 +78,9 @@ var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)) :yellow_heart:
 
+> [!NOTE]
+> **Learn what I'm up to now at [vinitshahdeo.com](https://vinitshahdeo.com/)!**
+
 <br><sup><i>With warm regards,<br>
 **Vinit Shahdeo**<i></sup><br>
 [![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
