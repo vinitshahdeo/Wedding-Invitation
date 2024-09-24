@@ -12,11 +12,11 @@
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **29th November at [Ashirwad Garden](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9), Ratu, Ranchi from 7:00 PM** onwards.
+inviting you and your family to elder brother's wedding to be held on **23th January at [Ashirwad Garden](https://goo.gl/maps/GfZyGggMU3ZvTKKU8), Shivpur, Ratlam from 10:00 AM** onwards.
 
 - [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
 
-- Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
+- Find [venue](https://goo.gl/maps/GfZyGggMU3ZvTKKU8) on Google map
 
 - Visit the [website](https://sonali.netlify.app/) for more details
 
@@ -26,13 +26,13 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 ```js
 
-const newCouple = 'Sonali & Gagan';
+const newCouple = 'Akash & Ishita';
 
 // Nov 29, 2020
-const weddingDate = new Date(2020, 11, 29);
+const weddingDate = new Date(2022, 01, 23);
 
-// Wedding venue: https://goo.gl/maps/5z5xX2hTYzU8VGEJ9
-const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+// Wedding venue: https://goo.gl/maps/GfZyGggMU3ZvTKKU8
+const weddingVenue = new Location('Rathod dharmshala, Shivpur');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
@@ -55,7 +55,7 @@ To reuse this, follow the steps:
 
 ```js
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
+var countDownDate = new Date("Jan 23, 2022 12:50:30").getTime();
 ```
 
 - *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/vinitshahdeo/Wedding-Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
