@@ -1,3 +1,4 @@
+
 @-webkit-keyframes fall {
 	0% {
 		opacity: 0.9;
@@ -351,7 +352,10 @@
 /*******************************/
 
 body {
-	font-family: Arial, Helvetica, Sans-serif;
+	font-family: "Source Sans 3", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
 }
 
 img {
@@ -380,18 +384,18 @@ img {
 }
 
 .title h1 {
-	font-family: 'Dancing Script', cursive;
-	font-weight: bold;
+	font-family: "Oi", serif;
 	font-style: normal;
 	font-size: 60px;
-	margin: 32px 0;
+	font-weight: 100;
+	margin: 20px 0;
 	color: #674ea7;
 }
 
 .title h2 {
-	font-family: 'Dancing Script', cursive;
-	font-weight: bold;
+	font-family: "Oi", serif;
 	font-style: normal;
+	font-weight: 100;
 	margin: 0;
 	padding: 0;
 	font-size: 24px;
@@ -400,17 +404,21 @@ img {
 }
 
 .dance-med {
-	font-family: 'Dancing Script', cursive;
-	font-weight: bolder;
+	font-family: "Source Sans 3", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
 	font-style: normal;
-	font-size: 32px;
+	font-size: 22px;
 	color: #674ea7;
 	margin: 16px;
 	text-align: center;
 }
 
 .title h3 {
-	font-weight: 300;
+	font-family: "Source Sans 3", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 24px;
@@ -446,7 +454,10 @@ img {
 * {
 	/* margin: 0;
     padding: 0; */
-	font-family: 'Arvo', serif;
+	font-family: "Source Sans 3", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
 }
 
 body {
@@ -462,13 +473,16 @@ body {
 	margin-bottom: 40px;
 }
 
-#time {
-	width: auto;
-	height: auto;
+.time {
+	font-family: "Source Sans 3", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 800;
+	font-style: normal;
 	padding: 20px;
 	background-color: #eee;
 	border-radius: 20px;
 	font-size: 16px;
+	margin-top: -30px;
 }
 
 .venue {
@@ -520,6 +534,16 @@ body {
 	background-color: #145689;
 }
 
+.heh {
+	font-family: "Source Sans 3", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 15px;
+	color: #674ea7;
+	margin: 0px;
+}
+
 .date {
 	color: #874562;
 	font-weight: 900;
@@ -528,13 +552,6 @@ body {
 .place {
 	color: #874562;
 	font-weight: 900;
-}
-
-.footer {
-	color: #564861;
-	text-align: center;
-	font-size: 16px;
-	margin: 24px;
 }
 
 .phone {
